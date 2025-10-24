@@ -1,0 +1,9 @@
+<resources>
+  <!-- Valid Material 3 parent -->
+  <style name="Theme.SmsExportAnalyze" parent="Theme.Material3.DayNight">
+    <!-- Optional: if you later add AppCompat, you can hide the legacy action bar like this:
+    <item name="windowActionBar">false</item>
+    <item name="android:windowNoTitle">true</item>
+    -->
+  </style>
+</resources>
